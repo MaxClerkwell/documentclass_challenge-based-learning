@@ -8,6 +8,12 @@
 \RequirePackage{fancyhdr} 
 \RequirePackage{amsmath}
 \RequirePackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue]{hyperref} 
+\RequirePackage{hyperref}
+\RequirePackage{graphicx}
+\RequirePackage{caption}
+\RequirePackage{listings}
+\RequirePackage{color}
+
 
 
 \RequirePackage{geometry}
